@@ -66,7 +66,7 @@ while True:
     elif choice == "5":
         break
     else:
-        print("Invalid choice.")
+        print("Invalid Choice.")
 
 # Closing the database connection
 db.close()
